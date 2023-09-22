@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+/* .webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+} */
+.container{
+    //background-color:red;
+    height:100vh;
+    display:flex;
+
+}
+
+/* .a, .b{
+    flex:1;
+    border:1px solid blue
+} */
+
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+
+}
